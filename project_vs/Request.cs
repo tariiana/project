@@ -101,19 +101,24 @@ namespace project_N
 
         public void button1_Click(object sender, EventArgs e)
         {
-           
-                for (int i = 0; i < dataGridView1.RowCount; i++)
+            string searchText = tb_search.Text;
+
+            foreach (DataGridViewRow row in dataGridView1.Rows)
+            {
+                row.Selected = ContainsSearchText(row, searchText);
+            }
+        }
+
+        private bool ContainsSearchText(DataGridViewRow row, string searchText)
+        {
+            foreach (DataGridViewCell cell in row.Cells)
+            {
+                if (cell.Value != null && cell.Value.ToString().Contains(searchText))
                 {
-                dataGridView1.Rows[i].Selected = false;
-                    for (int j = 0; j < dataGridView1.ColumnCount; j++)
-                        if (dataGridView1.Rows[i].Cells[j].Value != null)
-                        if
-                            (dataGridView1.Rows[i].Cells[j].Value.ToString().Contains(tb_search.Text))
-                        {
-                        dataGridView1.Rows[i].Selected = true;
-                        break;
-                        }
+                    return true;
                 }
+            }
+            return false;
         }
 
     }

@@ -48,3 +48,26 @@ F:\ПП\проект vs\project_N\obj\Debug\project_N.UserAE.resources
 F:\ПП\проект vs\project_N\obj\Debug\project_N.ReportAE.resources
 F:\ПП\проект vs\project_N\obj\Debug\project_N.RequestAE.resources
 F:\ПП\проект vs\project_N\obj\Debug\project_N.Stat.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\bin\Debug\project_N.exe.config
+C:\Users\Diana\Desktop\ProjectPP\project_vs\bin\Debug\project_N.exe
+C:\Users\Diana\Desktop\ProjectPP\project_vs\bin\Debug\project_N.pdb
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.Client.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.ClientAE.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.Main.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.Main_admin.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.Registration.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.Properties.Resources.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.Report.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.ReportAE.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.Request.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.RequestAE.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.Staff.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.StaffAE.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.Stat.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.UserAE.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.Users.resources
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.exe
+C:\Users\Diana\Desktop\ProjectPP\project_vs\obj\Debug\project_N.pdb
